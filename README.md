@@ -2,6 +2,10 @@
 
 A lightweight, mobile-friendly web panel for managing Proxmox VE virtual machines — designed for single-PC users who run multiple VMs with GPU passthrough and need to switch between them without a second computer or the Proxmox web UI.
 
+## Screenshot
+
+![Dashboard](dashboard.png)
+
 ## Why This Exists
 
 If you use Proxmox on your only PC with PCI passthrough (GPU, USB controllers, NVMe drives), you can't access the Proxmox web UI while a VM has your GPU. You need a way to manage VMs from your phone.
