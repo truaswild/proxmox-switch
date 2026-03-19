@@ -4,7 +4,7 @@ A lightweight, mobile-friendly web panel for managing Proxmox VE virtual machine
 
 ## Screenshot
 
-![Dashboard](dashboard.png)
+<img src="dashboard.png" width="350">
 
 ## Why This Exists
 
